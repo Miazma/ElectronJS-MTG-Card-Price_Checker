@@ -1,2 +1,0 @@
-const preload = require('./preload');
-

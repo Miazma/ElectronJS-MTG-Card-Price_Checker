@@ -1,0 +1,26 @@
+html, body {
+    background-color: lightgray;
+}
+
+#list1 {
+    color: purple;
+    list-style: none;
+}
+
+li.active {
+    display: block;
+    background-color: #212529 !important;
+    color: white !important;
+    float: left;
+    width: 50%;
+
+}
+
+/*#first_row {
+    color: white;
+    text-align: center;
+} */
+
+.card {
+    width: 12rem;
+}

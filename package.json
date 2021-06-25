@@ -1,0 +1,24 @@
+{
+  "name": "mtgelectron",
+  "productName": "MTG Card Analyzer",
+  "version": "1.0.0",
+  "description": "test application for gui production",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "keywords": [],
+  "author": "Miles",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "node": "^16.3.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.57",
+    "electron": "^13.1.4"
+  }
+}
